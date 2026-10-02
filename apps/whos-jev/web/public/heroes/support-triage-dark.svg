@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="support-triage">
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L12 6 L0 12 z" fill="#A3A3A3"/>
+    </marker>
+    <marker id="arrow-a" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L12 6 L0 12 z" fill="#F386A1"/>
+    </marker>
+  </defs>
+<rect x="110" y="330" width="360" height="240" rx="18" fill="#1A1A1A" stroke="#7A7A7A" stroke-width="5"/>
+      <text x="150" y="385" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#A3A3A3" text-anchor="start">ticket</text>
+      <text x="150" y="430" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#EDEDED" text-anchor="start">Export crashes the</text><text x="150" y="472" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#EDEDED" text-anchor="start">settings page in</text><text x="150" y="514" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#EDEDED" text-anchor="start">Safari.</text>
+      <path d="M470 450 H705" fill="none" stroke="#A3A3A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="720" cy="450" r="16" fill="#F386A1"/>
+      <path d="M720 450 V255 H790" fill="none" stroke="#A3A3A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+      <path d="M720 450 V645 H790" fill="none" stroke="#A3A3A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+      <text x="800" y="180" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#A3A3A3" text-anchor="start">category</text>
+      <text x="800" y="570" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#A3A3A3" text-anchor="start">priority</text>
+      <rect x="800" y="200" width="180" height="110" rx="18" fill="rgba(243,134,161,0.16)" stroke="#F386A1" stroke-width="5"/><rect x="1000" y="200" width="180" height="110" rx="18" fill="#1A1A1A" stroke="#7A7A7A" stroke-width="5"/><rect x="1200" y="200" width="180" height="110" rx="18" fill="#1A1A1A" stroke="#7A7A7A" stroke-width="5"/><rect x="1400" y="200" width="180" height="110" rx="18" fill="#1A1A1A" stroke="#7A7A7A" stroke-width="5"/>
+      <rect x="800" y="590" width="180" height="110" rx="18" fill="#1A1A1A" stroke="#7A7A7A" stroke-width="5"/><rect x="1000" y="590" width="180" height="110" rx="18" fill="rgba(243,134,161,0.16)" stroke="#F386A1" stroke-width="5"/><rect x="1200" y="590" width="180" height="110" rx="18" fill="#1A1A1A" stroke="#7A7A7A" stroke-width="5"/>
+      <text x="890" y="266" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#EDEDED" text-anchor="middle">bug</text><text x="1090" y="266" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#EDEDED" text-anchor="middle">billing</text><text x="1290" y="266" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#EDEDED" text-anchor="middle">feature</text><text x="1490" y="266" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#EDEDED" text-anchor="middle">other</text>
+      <text x="890" y="656" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#EDEDED" text-anchor="middle">low</text><text x="1090" y="656" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#EDEDED" text-anchor="middle">normal</text><text x="1290" y="656" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#EDEDED" text-anchor="middle">high</text>
+</svg>

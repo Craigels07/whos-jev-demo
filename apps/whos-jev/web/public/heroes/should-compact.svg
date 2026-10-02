@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="should-compact">
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L12 6 L0 12 z" fill="#525252"/>
+    </marker>
+    <marker id="arrow-a" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L12 6 L0 12 z" fill="#F386A1"/>
+    </marker>
+  </defs>
+<circle cx="180" cy="450" r="26" fill="#D4D4D4"/><circle cx="290" cy="450" r="26" fill="#D4D4D4"/><circle cx="400" cy="450" r="26" fill="#D4D4D4"/><circle cx="510" cy="450" r="26" fill="#D4D4D4"/><circle cx="620" cy="450" r="26" fill="#F386A1"/>
+    <path d="M206 450 H654" fill="none" stroke="#D4D4D4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="400" y="525" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#525252" text-anchor="middle">turns</text>
+    <path d="M660 450 H760" fill="none" stroke="#525252" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <g transform="translate(870 450) rotate(45)"><rect x="-90" y="-90" width="180" height="180" rx="18" fill="rgba(243,134,161,0.16)" stroke="#F386A1" stroke-width="5"/></g>
+    <text x="870" y="464" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#F386A1" text-anchor="middle">Jev</text>
+    <path d="M990 450 H1060 V150 H1130" fill="none" stroke="#525252" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M1060 450 V350 H1130" fill="none" stroke="#525252" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M1060 450 V550 H1130" fill="none" stroke="#525252" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M1060 450 V750 H1130" fill="none" stroke="#525252" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <rect x="1140" y="100" width="330" height="100" rx="18" fill="#FFFFFF" stroke="#D4D4D4" stroke-width="5"/>
+    <rect x="1140" y="300" width="330" height="100" rx="18" fill="#FFFFFF" stroke="#8C8C8C" stroke-width="5"/>
+    <rect x="1140" y="500" width="330" height="100" rx="18" fill="rgba(154,123,47,0.14)" stroke="#9A7B2F" stroke-width="5"/>
+    <rect x="1140" y="700" width="330" height="100" rx="18" fill="rgba(176,74,68,0.12)" stroke="#B04A44" stroke-width="5"/>
+    <text x="1305" y="162" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#525252" text-anchor="middle">silent</text>
+    <text x="1305" y="362" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#171717" text-anchor="middle">notice</text>
+    <text x="1305" y="562" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#9A7B2F" text-anchor="middle">recommend</text>
+    <text x="1305" y="762" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#B04A44" text-anchor="middle">request</text>
+</svg>

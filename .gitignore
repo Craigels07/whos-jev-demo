@@ -1,0 +1,8 @@
+.env
+node_modules/
+.DS_Store
+apps/whos-jev/web/dist/
+apps/whos-jev/.sessions/
+apps/whos-jev/.sandboxes/
+.playwright-cli/
+apps/whos-jev/web/src/deck/notes/

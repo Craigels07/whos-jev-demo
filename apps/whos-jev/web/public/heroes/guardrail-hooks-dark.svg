@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="guardrail-hooks">
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L12 6 L0 12 z" fill="#A3A3A3"/>
+    </marker>
+    <marker id="arrow-a" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L12 6 L0 12 z" fill="#F386A1"/>
+    </marker>
+  </defs>
+<rect x="130" y="320" width="300" height="260" rx="18" fill="#1A1A1A" stroke="#7A7A7A" stroke-width="5"/>
+    <text x="165" y="375" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#A3A3A3" text-anchor="start">agent</text>
+    <text x="165" y="435" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="500" fill="#EDEDED" text-anchor="start">rm -rf</text><text x="165" y="479" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="500" fill="#EDEDED" text-anchor="start">node_modules</text><text x="165" y="523" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="500" fill="#EDEDED" text-anchor="start">&amp;&amp; npm test</text>
+    <path d="M430 450 H620" fill="none" stroke="#A3A3A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <rect x="640" y="405" width="220" height="90" rx="14" fill="#1A1A1A" stroke="#A3A3A3" stroke-width="5"/>
+    <text x="750" y="461" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="32" font-weight="500" fill="#EDEDED" text-anchor="middle">bash</text>
+    <path d="M860 450 H960" fill="none" stroke="#A3A3A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <polygon points="1190.0,450.0 1135.0,545.3 1025.0,545.3 970.0,450.0 1025.0,354.7 1135.0,354.7" fill="rgba(243,134,161,0.16)" stroke="#F386A1" stroke-width="5" stroke-linejoin="round"/>
+    <text x="1080" y="465.4" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F386A1" text-anchor="middle">Jev</text>
+    <path d="M1190 450 H1260 V300 H1330" fill="none" stroke="#A3A3A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <path d="M1260 450 V600 H1330" fill="none" stroke="#A3A3A3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+    <rect x="1340" y="240" width="200" height="120" rx="18" fill="rgba(95,176,131,0.14)" stroke="#5FB083" stroke-width="5"/>
+    <rect x="1340" y="540" width="200" height="120" rx="18" fill="rgba(224,130,123,0.14)" stroke="#E0827B" stroke-width="5"/>
+    <text x="1440" y="312" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#5FB083" text-anchor="middle">allow</text>
+    <text x="1440" y="612" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#E0827B" text-anchor="middle">block</text>
+</svg>
