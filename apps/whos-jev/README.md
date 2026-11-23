@@ -85,7 +85,7 @@ tests/          core and client tests, one test file per example, live.test.ts
 5. **Give the model an exit.** An `other` / `none_of_the_above` option whenever the list might not cover every input.
 6. **Describe situations, not degrees.** "Blocking issue; no workaround exists" — not "moderately severe."
 7. **Questions and thresholds in one reviewable file per option.** The part a human audits.
-8. **Isolate the state.** If you're classifying a passage, don't send the whole document — context rot is real.
+8. **Isolate the state.** If you're classifying a passage, don't send the whole document. Irrelevant context lowers answer quality.
 9. **Second requests only for real dependencies.** If the next question's options depend on the first answer, that's a second request; otherwise fan out.
 10. **The 255-option Choice cap is a feature.** Dynamic blocks prune in code before they build; `validateQuestions` enforces the cap.
 
