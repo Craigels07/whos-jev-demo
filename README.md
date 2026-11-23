@@ -2,6 +2,8 @@
 
 Seven examples of [Jev](https://typesafe.ai), TypeSafe's System One decision model, and a short deck that introduces it. The examples ramp from a single yes or no in your code to Jev running inside the pi coding agent.
 
+Written in TypeScript throughout: the examples, tests, and pi extensions run directly on Node 22+, and the lab is a Vue 3 + TypeScript app.
+
 ## What Jev does
 
 You send Jev a `state` and a set of typed questions. 70 to 500 ms later you get typed answers back, with probabilities your code can branch on, for a fraction of a cent. It does not write text. It decides.
